@@ -1,0 +1,15 @@
+{
+	"emeraldwalk.runonsave": {
+		"commands": [
+			{
+				"cmd": "haxelib run sob",
+				"match": "sobfile.lua"
+			}
+		]
+	},
+
+	"haxe.configurations": [
+		[".sob/eval.hxml"],
+		[".sob/build.hxml"]
+	]
+}
