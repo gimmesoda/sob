@@ -1,4 +1,4 @@
-# **sob** - <u>so</u>da's hxml <u>b</u>uilder
+# **sob** - soda's hxml builder (currently being completely rewritten)
 
 A tool for generating one or more hxml files using a single lua script
 
